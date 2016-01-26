@@ -1,2 +1,3 @@
 # hello-world
-Learning how to use GitHub.
+=============
+This project was created in order to get to know the basics of GitHub functionalities.
